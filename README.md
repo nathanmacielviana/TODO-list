@@ -14,7 +14,7 @@
 
 <h2 align="center"> Descrição do Projeto 📜 </h2>
 <p align="center"> <strong>Lista de Tarefas com armazenamento local em Javascript</strong> </p> <br>
-<p align="center"> > Baseado no projeto do canal Tyler Potts, <a href="https://www.youtube.com/watch?v=6eFwtaZf6zc&ab_channel=TylerPotts" target="_blank">O projeto você pode encontrar aqui</a></p>
+<p align="center"> > Baseado no projeto do canal Tyler Potts, <a href="https://www.youtube.com/watch?v=6eFwtaZf6zc&ab_channel=TylerPotts" target="_blank">Veja aqui</a></p>
 
 <br>
 
